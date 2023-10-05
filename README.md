@@ -49,7 +49,3 @@ GradGuardian was created to empower students with the tools and information they
 ## Contact
 
 For any inquiries or feedback, please use the [contact form](https://yashpunmiya.github.io/Gradgaurdian/contact.html) provided on the website.
-
----
-
-You can copy and paste this README into your GitHub repository, and don't forget to replace the placeholder URLs with the actual links to your website and contact form. Feel free to customize it further to meet your specific needs or style preferences.
