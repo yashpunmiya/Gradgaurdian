@@ -1,4 +1,4 @@
-# GradGuardian
+# GradGuardian(https://yashpunmiya.github.io/Gradgaurdian/)
 
 GradGuardian is a comprehensive financial management tool designed to help students manage their finances efficiently. It is available on desktop, Android, and iOS platforms, ensuring accessibility for a wide range of users.
 
